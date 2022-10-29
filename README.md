@@ -12,8 +12,4 @@
 <div style="display: inline_block"><br>
   <h3>Other Knowledge:</h3>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</div> 
-<div style="display: inline_block"><br>
-  <h3>Social Media:</h3>
-  <a href="https://www.linkedin.com/in/willyan-nascimento-a998ab253/" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </div>
