@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa789&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Willyan+Pereira;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a77ecb&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Willyan+Pereira;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 <div align="center">
 <a href="https://github.com/willy4nn">
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=willy4nn&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
