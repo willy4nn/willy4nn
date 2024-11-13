@@ -1,5 +1,6 @@
 
-![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/b2a6dc35-c704-4cea-91ba-ce5b6ba5a0ce)
+![Black Technology LinkedIn Banner(1)](https://github.com/user-attachments/assets/72323072-8b93-4a20-aa8d-5777bf2b3c65)
+
 <div align="center">
 	<img
 		src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
