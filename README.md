@@ -1,6 +1,4 @@
-
-![Black Technology LinkedIn Banner(1)](https://github.com/user-attachments/assets/72323072-8b93-4a20-aa8d-5777bf2b3c65)
-
+![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/d68eb9e4-d0ef-4637-9a4d-4448e6403fc0)
 <div align="center">
 	<h2>Stacks</h2>
 	<img
