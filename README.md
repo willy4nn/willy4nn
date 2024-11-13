@@ -1,6 +1,5 @@
-<div align="center">
-<h1>Willyan</h1>
-<h2>E aí, tranquilo? ☕ 🤙</h2>
+
+![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/b2a6dc35-c704-4cea-91ba-ce5b6ba5a0ce)
 <div align="center">
 	<img
 		src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
@@ -54,5 +53,4 @@
 		src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
 		alt="Docker"
 	/>
-</div>
 </div>
